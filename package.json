@@ -1,0 +1,30 @@
+{
+  "name": "vue_form_builder_bootstrap4",
+  "version": "0.0.1",
+  "description": "un form builder en vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierro5487/formbuilder.git"
+  },
+  "author": "Aubrion pierre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierro5487/formbuilder/issues"
+  },
+  "homepage": "https://github.com/pierro5487/formbuilder#readme",
+  "files": [
+    "dist/*"
+  ],
+  "devDependencies": {
+    "bili": "^5.0.5",
+    "rollup-plugin-vue": "^6.0.0",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.0.5"
+  }
+}
